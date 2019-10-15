@@ -1,3 +1,5 @@
 import readlineSync from 'readline-sync';
 
-export const askQuestion = question => readlineSync.question(question);
+const askQuestion = question => readlineSync.question(question);
+
+export default askQuestion;

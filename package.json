@@ -1,0 +1,11 @@
+{
+  "name": "frontend-project-lvl1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nick-bcm/frontend-project-lvl1.git",
+  "author": "Nick <nick.bcm@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "brain-games": "./src/bin/brain-games.js",
+  }
+}
